@@ -1,2 +1,3 @@
 # Hello-Everyone
-Learning github !! My first repository :)
+Learning github !! My first repository:)
+Happy me
